@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.4nE9Jsd1Sv/main.c
+stdio.h
+-
+stdlib.h
+-
+osoba.h
+/tmp/tmp.4nE9Jsd1Sv/osoba.h
+zoznamOsob.h
+/tmp/tmp.4nE9Jsd1Sv/zoznamOsob.h
+
+/tmp/tmp.4nE9Jsd1Sv/osoba.h
+
+/tmp/tmp.4nE9Jsd1Sv/zoznamOsob.c
+zoznamOsob.h
+/tmp/tmp.4nE9Jsd1Sv/zoznamOsob.h
+
+/tmp/tmp.4nE9Jsd1Sv/zoznamOsob.h
+osoba.h
+/tmp/tmp.4nE9Jsd1Sv/osoba.h
+stdio.h
+-
+
